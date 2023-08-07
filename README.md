@@ -1,5 +1,15 @@
 # ml_projects
-Caltech AIML Machine Learning Projects
+
+Below are Caltech AIML Machine Learning Projects - Simplilearn course end projects. 
+1. Course-end Project 1 - Mercedes-Benz Greener Manufacturing
+2. Course-end Project 2 - Income Qualification
+3. Course-end Project 3 - Health Care
+4. Course-end Project 4 - Book Rental Recommendation
+
+**Disclaimer:**
+The information and code in this repository are for educational purposes only. We do not own the datasets and course files provided. The owner and contributors of this repository make no representations or warranties of any kind concerning the accuracy, suitability, or completeness of any information or code provided. External links are for convenience and not endorsed by us.
+
+-------------------------
 
 Mercedes-Benz Greener Manufacturing .
 Course-end Project 1
